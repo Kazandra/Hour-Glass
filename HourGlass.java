@@ -7,8 +7,6 @@
  *
  */
 
-//If you have any questions about my work or if something is not working
-//please contact me at: kzelaya20@cmc.edu
 
 public class HourGlass {
 
